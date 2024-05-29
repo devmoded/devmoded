@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sssprt
-- 👀 I’m interested in - Minecraft mod development
+- 😶 Nickname - Ssprt
+- 👀 I’m interested in - Minecraft mod development and Java programming
 - 🌱 I’m currently learning - Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - write to me at (data not found)
