@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Sssprt
-- 😶 Nickname - Ssprt
-- 👀 I’m interested in - Minecraft mod development and Java programming
-- 🌱 I’m currently learning - Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - write to me at (data not found)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: - you read this
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sssprt&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />this
 
 <!---
 Sssprt/Sssprt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
