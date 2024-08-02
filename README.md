@@ -4,6 +4,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,py,idea,vscode,windows,godot,figma&perline=7" />
   </a>
+  <img src="https://myreadme.vercel.app/api/embed/Sssprt?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
 <!---
 Sssprt/Sssprt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
