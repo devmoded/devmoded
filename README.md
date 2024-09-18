@@ -1,20 +1,24 @@
 <!---Собираюсь заниматься Android разработкой<br>--->
 <p align="left">
   <h1>Привет👋</h1>
-  <b>Контакты:</b>
-  <br>
+  <h3>Контакты:</h3>
   <a href="https://github.com/Sssprt"><img src="https://skillicons.dev/icons?i=discord&perline=1" /></a>
-  <br><br>
-  <b>Изучаю:</b>
-  <br>
+  <h3>Изучаю:</h3>
+    1:<br>
   <a href="https://github.com/Sssprt">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,py,java,vscode,git,godot,idea,figma&perline=10" /> 
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&perline=10" /> <br>
   </a>
-  <br><br>
+    2:<br>
+  <a href="https://github.com/Sssprt">
+    <img src="https://skillicons.dev/icons?i=java,git,idea&perline=10" /> <br>
+  </a>
+    3:<br>
+  <a href="https://github.com/Sssprt">
+    <img src="https://skillicons.dev/icons?i=py,vscode&perline=10" /> <br>
+  </a>
   <details>
 
-<summary><b>Статистика</b></summary>
-  <br>
+<summary><h3>Статистика</h3></summary>
  <img src="https://myreadme.vercel.app/api/embed/Sssprt?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 </details>
