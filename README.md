@@ -20,4 +20,5 @@
 
 ### 📈 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmoded&show_icons=true&theme=dark&hide_title=true&locale=ru)--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmoded&show_icons=true&theme=dark&hide_title=true&locale=ru)
+--->
