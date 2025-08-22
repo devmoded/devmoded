@@ -1,4 +1,9 @@
-Здесь пока ничего нет
+<p align="center">
+  <img src="https://github.com/devmoded/devmoded/raw/refs/heads/main/%5Bdevmoded%5D.svg" width="250">
+  <p align="center">
+    Здесь пока ничего нет
+  </p>
+</p>
 
 <!---<h1 align="center">Привет, я devmoded 👋</h1>
 
