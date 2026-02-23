@@ -2,6 +2,9 @@
 [profile]
 name = "devmoded"
 location = "Russia"
+tech_stack = [
+  "Python"
+]
 
 [[links]]
 name = "codeberg"
