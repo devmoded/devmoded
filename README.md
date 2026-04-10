@@ -1,20 +1,39 @@
-```toml
-[profile]
-name = "devmoded"
-location = "Russia"
-tech_stack = [
-  "Python"
-]
-
-[[links]]
-name = "codeberg"
-url = "https://codeberg.org/devmoded"
-
-[[projects]]
-name = "hyprland-dots"
-url = "https://github.com/devmoded/hyprland-dots"
-
-[[projects]]
-name = "modpack_installer"
-url = "https://github.com/devmoded/modpack_installer"
-```
+<p>
+  <h2>Об интересах и направлениях.</h2>
+  <li>
+    <p>
+      <h3>Увлекаюсь разработкой на:</h3>
+    </p>
+    <p>
+      <a href="https://github.com/devmoded">
+        <img src="https://skillicons.dev/icons?i=py,rust" />
+      </a>
+    </p>
+    <p>
+      Пока в основном для небольших личных утилит.
+    </p>
+  </li>
+  <li>
+    <p>
+      <h3>Помимо этого немного изучаю:</h3>
+    </p>
+    <p>
+      <a href="https://github.com/devmoded">
+        <img src="https://skillicons.dev/icons?i=linux,bash,docker,git" />
+      </a>
+    </p>
+  </li>
+  <li>
+    <p>
+      <h3>Хочется изучить:</h3>
+    </p>
+    <p>
+      <a href="https://github.com/devmoded">
+        <img src="https://skillicons.dev/icons?i=js,ts,vue" />
+      </a>
+    </p>
+    <p>
+      Чтобы сделать себе сайт-портфолио.
+    </p>
+  </li>
+</p>
