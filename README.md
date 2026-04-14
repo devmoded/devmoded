@@ -29,7 +29,7 @@
     </p>
     <p>
       <a href="https://github.com/devmoded">
-        <img src="https://skillicons.dev/icons?i=js,ts,vue" />
+        <img src="https://skillicons.dev/icons?i=js,ts,vue,tailwind" />
       </a>
     </p>
     <p>
