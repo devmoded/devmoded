@@ -6,12 +6,12 @@
     </p>
     <p>
       <a href="https://github.com/devmoded">
-        <img src="https://skillicons.dev/icons?i=py,rust" />
+        <img src="https://skillicons.dev/icons?i=py,rust,go" />
       </a>
     </p>
-    <p>
+    <!-- <p>
       Пока в основном для небольших личных утилит.
-    </p>
+    </p> -->
   </li>
   <li>
     <p>
@@ -23,7 +23,7 @@
       </a>
     </p>
   </li>
-  <li>
+  <!-- <li>
     <p>
       <h3>Хочется изучить:</h3>
     </p>
@@ -35,5 +35,5 @@
     <p>
       Чтобы сделать себе сайт-портфолио.
     </p>
-  </li>
+  </li> -->
 </p>
