@@ -39,6 +39,9 @@
   <a href="https://github.com/devmoded/ani-dl">
     <img src="https://badgen.net/badge/icon/ani-dl/black?icon=rust&label" />
   </a>
+  <a href="https://github.com/devmoded/ani-search">
+    <img src="https://badgen.net/badge/icon/ani-search/black?icon=rust&label" />
+  </a>
   <a href="https://github.com/devmoded/mp-cli">
     <img src="https://badgen.net/badge/icon/mp-cli/blue?icon=go&label" />
   </a>
