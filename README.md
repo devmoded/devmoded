@@ -4,3 +4,4 @@
 - [![](https://badgen.net/badge/icon/ani-dl/black?icon=rust&label)](https://github.com/devmoded/ani-dl)
 - [![](https://badgen.net/badge/icon/ani-search/black?icon=rust&label)](https://github.com/devmoded/ani-search)
 - [![](https://badgen.net/badge/icon/mp-cli/blue?icon=go&label)](https://github.com/devmoded/mp-cli)
+- [![](https://badgen.net/badge/icon/flclashx-flake/6366f1?icon=nixos&label)](https://github.com/devmoded/flclashx-flake)
